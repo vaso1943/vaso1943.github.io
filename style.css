@@ -1,0 +1,22 @@
+#banner{
+    width: 1000px;
+}
+
+.dropdown-menu{
+    font-family: 'Ruslan Display', cursive;
+}
+.nav-link{
+    font-family: 'Russo One', sans-serif;
+}
+#letov{
+    font-family: 'Ruslan Display', cursive;
+}
+#hoy{
+    font-family: 'Russo One', sans-serif;
+}
+#gor{
+    font-family: 'Russo One', sans-serif;
+}
+.carousel-caption{
+    background-color: rgba(26, 25, 25, 0.990);
+}
