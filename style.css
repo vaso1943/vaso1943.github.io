@@ -20,3 +20,13 @@
 .carousel-caption{
     background-color: rgba(26, 25, 25, 0.990);
 }
+#test{
+    width: 250px;
+    margin-left: calc(50% - 125px);
+}
+.ad{
+    margin-left: 25px;
+}
+.da{
+    margin-left: 40px;
+}
