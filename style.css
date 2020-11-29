@@ -30,3 +30,9 @@
 .da{
     margin-left: 40px;
 }
+#answer{
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    user-select: none;
+}
